@@ -17,7 +17,7 @@ namespace KnowledgeCheck1_Calculator
         {
             return first - second;
         }
-
+            //needed to add in the multiply method
         public int Multiply(int first, int second)
         {
             return first * second; 

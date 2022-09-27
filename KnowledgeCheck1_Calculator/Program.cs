@@ -39,6 +39,8 @@ switch (input)
         }
         break;
 
+        //needed to add in an option for when someone presses 3 to trigger the multiply function
+
     case "3":
         Console.WriteLine("Enter 2 integers to multiply");
         var multiplyNumber1 = Console.ReadLine();
