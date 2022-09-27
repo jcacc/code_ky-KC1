@@ -1,1 +1,2 @@
-# knowledge check due 10/9
+# code ky - knowledge check 1
+-add multiply functionality to calculator app
